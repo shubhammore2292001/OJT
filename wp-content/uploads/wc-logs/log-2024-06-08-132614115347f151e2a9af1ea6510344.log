@@ -1,0 +1,6 @@
+2024-06-08T07:17:14+00:00 INFO Payment gateway enabled: "Stripe Card Processing"
+2024-06-08T07:17:19+00:00 INFO Payment gateway enabled: "Direct bank transfer"
+2024-06-08T07:17:20+00:00 INFO Payment gateway enabled: "Check payments"
+2024-06-08T07:17:21+00:00 INFO Payment gateway enabled: "Cash on delivery"
+2024-06-08T07:17:44+00:00 INFO Payment gateway enabled: "UPI QR Code"
+2024-06-08T07:18:16+00:00 INFO Payment gateway enabled: "UPI QR Code"
